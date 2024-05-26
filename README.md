@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi  👋
 
 I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactive web applications and exploring new technologies. 
 
