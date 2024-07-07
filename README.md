@@ -3,7 +3,7 @@
 I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactive web applications and exploring new technologies. 
 
 ## About Me
-- 🌱 I’m currently learning React.js and Java Servlets
+- 🌱 I’m currently learning React.js , Java Servlets and SpringBoot
 <!-- - 👨‍💻 All of my projects are available at [rahul](https://janedoe.dev) -->
 - 💬 Ask me about Java, MySql, and Python
 - 📫 How to reach me: baderahul67@gmail.com or [LinkedIn](https://github.com/BadeRahul)
