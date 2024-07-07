@@ -10,9 +10,11 @@ I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactiv
 <!-- - ⚡ Fun fact: I love hiking and have summited over 10 peaks -->
 
 ## Skills
-- **Languages**: Java, Python, JavaScript
-- **Frameworks**: React, Django
-- **Tools**: Git,Figma
+- **Languages**: Java, Python
+- **Web Tecnhologies**: HTML, CSS, JavaScript, JSP(JavaServer Pages), Servlets
+- **Frameworks**: Bootstrap-4 , React, Django
+- **Database Technologies**: MySql, JDBC(Java Database Connectivity)
+- **Development Tools**: Git, Figma, Eclipse, Maven
 
 ## Projects
 - [Library Management System](https://github.com/BadeRahul/Library-Management-System-Django): A Simple Library Management Systemm using Django Framework.
