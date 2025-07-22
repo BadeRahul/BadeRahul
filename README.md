@@ -3,7 +3,7 @@
 I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactive web applications and exploring new technologies. 
 
 ## About Me
-- 🌱 I’m currently learning React.js , Java Servlets and SpringBoot
+- 🌱 I’m currently learning React.js ,and SpringBoot
 <!-- - 👨‍💻 All of my projects are available at [rahul](https://janedoe.dev) -->
 - 💬 Ask me about Java, MySql, and Python
 - 📫 How to reach me: baderahul67@gmail.com or [LinkedIn](https://github.com/BadeRahul)
@@ -11,10 +11,10 @@ I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactiv
 
 ## Skills
 - **Languages**: Java, Python
-- **Web Tecnhologies**: HTML, CSS, JavaScript, JSP(JavaServer Pages), Servlets
-- **Frameworks**: Bootstrap-4 , React, Django
+- **Web Tecnhologies**: HTML, CSS, JavaScript,
+- **Frameworks**:React, Django , Spring
 - **Database Technologies**: MySql, JDBC(Java Database Connectivity)
-- **Development Tools**: Git, Figma, Eclipse, Maven
+- **Development Tools**: Git, Figma, Eclipse, STS ,Postman
 
 ## Projects
 - [Library Management System](https://github.com/BadeRahul/Library-Management-System-Django): A Simple Library Management Systemm using Django Framework.
