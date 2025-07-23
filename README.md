@@ -16,11 +16,6 @@ I'm Bade Rahul, a Java Full-Stack Developer passionate about building interactiv
 - **Database Technologies**: MySql, JDBC(Java Database Connectivity)
 - **Development Tools**: Git, Figma, Eclipse, STS ,Postman
 
-## Projects
-- [Library Management System](https://github.com/BadeRahul/Library-Management-System-Django): A Simple Library Management Systemm using Django Framework.
-- [Netflix Clone](https://github.com/BadeRahul/Netflix-clone): Netflix clone using pure HTML and CSS.
-- [Tic-Tac-Toe Game](https://github.com/BadeRahul/TIC_TAC_TOE-JS-):Normal Tic-Tac-Toe game using Js.
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/bade-rahul-a08442269/)
 <!-- - [Twitter](https://twitter.com/janedoe) -->
